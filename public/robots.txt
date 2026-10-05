@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lawoffice108.com/sitemap.xml
+
+# Law Office 108 - Kantor Hukum Profesional di Mataram, NTB
+# Jl. Kesra Raya No.108, Tj. Karang Permai, Kec. Sekarbela, Kota Mataram, NTB 83115
